@@ -985,5 +985,306 @@
     "total_matchups": 80,
     "wins": 73,
     "losses": 7
+  },
+  "Irelia": {
+    "strong_against": [
+      {
+        "champion": "Smolder",
+        "winrate": 68.75
+      },
+      {
+        "champion": "Ezreal",
+        "winrate": 64.36
+      },
+      {
+        "champion": "Morgana",
+        "winrate": 63.1
+      },
+      {
+        "champion": "Naafiri",
+        "winrate": 57.04
+      },
+      {
+        "champion": "Ryze",
+        "winrate": 56.06
+      },
+      {
+        "champion": "Mel",
+        "winrate": 55.96
+      },
+      {
+        "champion": "Taliyah",
+        "winrate": 55.23
+      },
+      {
+        "champion": "Neeko",
+        "winrate": 54.97
+      },
+      {
+        "champion": "Orianna",
+        "winrate": 54.83
+      },
+      {
+        "champion": "Diana",
+        "winrate": 54.74
+      },
+      {
+        "champion": "Yone",
+        "winrate": 54.69
+      },
+      {
+        "champion": "Syndra",
+        "winrate": 54.61
+      },
+      {
+        "champion": "Azir",
+        "winrate": 54.49
+      },
+      {
+        "champion": "Corki",
+        "winrate": 54.49
+      },
+      {
+        "champion": "Annie",
+        "winrate": 54.12
+      },
+      {
+        "champion": "Zed",
+        "winrate": 54.11
+      },
+      {
+        "champion": "Talon",
+        "winrate": 53.33
+      },
+      {
+        "champion": "Jayce",
+        "winrate": 53.25
+      },
+      {
+        "champion": "Garen",
+        "winrate": 53.19
+      },
+      {
+        "champion": "Akshan",
+        "winrate": 52.73
+      },
+      {
+        "champion": "Hwei",
+        "winrate": 52.23
+      },
+      {
+        "champion": "Zoe",
+        "winrate": 52.17
+      },
+      {
+        "champion": "Kayle",
+        "winrate": 51.99
+      },
+      {
+        "champion": "Malzahar",
+        "winrate": 51.95
+      },
+      {
+        "champion": "Cassiopeia",
+        "winrate": 51.62
+      },
+      {
+        "champion": "Viego",
+        "winrate": 51.52
+      },
+      {
+        "champion": "Katarina",
+        "winrate": 51.31
+      },
+      {
+        "champion": "Viktor",
+        "winrate": 51.24
+      },
+      {
+        "champion": "Ziggs",
+        "winrate": 51.07
+      },
+      {
+        "champion": "Ahri",
+        "winrate": 51.02
+      },
+      {
+        "champion": "Lissandra",
+        "winrate": 51.01
+      },
+      {
+        "champion": "Veigar",
+        "winrate": 50.99
+      },
+      {
+        "champion": "Lux",
+        "winrate": 50.83
+      },
+      {
+        "champion": "Ekko",
+        "winrate": 50.82
+      },
+      {
+        "champion": "Yasuo",
+        "winrate": 50.68
+      },
+      {
+        "champion": "Vladimir",
+        "winrate": 50.56
+      },
+      {
+        "champion": "Quinn",
+        "winrate": 50.44
+      },
+      {
+        "champion": "Aurora",
+        "winrate": 50.32
+      },
+      {
+        "champion": "Xerath",
+        "winrate": 50.28
+      },
+      {
+        "champion": "Swain",
+        "winrate": 50.18
+      }
+    ],
+    "weak_against": [
+      {
+        "champion": "Zilean",
+        "winrate": 40.14
+      },
+      {
+        "champion": "Kennen",
+        "winrate": 41.94
+      },
+      {
+        "champion": "Renekton",
+        "winrate": 43.27
+      },
+      {
+        "champion": "Ambessa",
+        "winrate": 45.1
+      },
+      {
+        "champion": "Tristana",
+        "winrate": 45.14
+      },
+      {
+        "champion": "Heimerdinger",
+        "winrate": 45.39
+      },
+      {
+        "champion": "Malphite",
+        "winrate": 45.58
+      },
+      {
+        "champion": "Gragas",
+        "winrate": 46.39
+      },
+      {
+        "champion": "Brand",
+        "winrate": 46.55
+      },
+      {
+        "champion": "Vex",
+        "winrate": 46.68
+      },
+      {
+        "champion": "Riven",
+        "winrate": 46.76
+      },
+      {
+        "champion": "Anivia",
+        "winrate": 47.39
+      },
+      {
+        "champion": "Pantheon",
+        "winrate": 47.85
+      },
+      {
+        "champion": "Sett",
+        "winrate": 47.98
+      },
+      {
+        "champion": "Akali",
+        "winrate": 48.81
+      },
+      {
+        "champion": "Vel'Koz",
+        "winrate": 48.81
+      },
+      {
+        "champion": "Mordekaiser",
+        "winrate": 48.91
+      },
+      {
+        "champion": "Varus",
+        "winrate": 49.01
+      },
+      {
+        "champion": "Fizz",
+        "winrate": 49.08
+      },
+      {
+        "champion": "Kassadin",
+        "winrate": 49.16
+      },
+      {
+        "champion": "Cho'Gath",
+        "winrate": 49.19
+      },
+      {
+        "champion": "Qiyana",
+        "winrate": 49.29
+      },
+      {
+        "champion": "Nasus",
+        "winrate": 49.34
+      },
+      {
+        "champion": "Kog'Maw",
+        "winrate": 49.5
+      },
+      {
+        "champion": "Singed",
+        "winrate": 49.54
+      },
+      {
+        "champion": "Aurelion Sol",
+        "winrate": 49.6
+      },
+      {
+        "champion": "Tryndamere",
+        "winrate": 49.71
+      },
+      {
+        "champion": "Twisted Fate",
+        "winrate": 49.73
+      },
+      {
+        "champion": "Sylas",
+        "winrate": 49.77
+      },
+      {
+        "champion": "Galio",
+        "winrate": 49.79
+      },
+      {
+        "champion": "LeBlanc",
+        "winrate": 49.93
+      },
+      {
+        "champion": "Gangplank",
+        "winrate": 50.0
+      },
+      {
+        "champion": "Sion",
+        "winrate": 50.0
+      }
+    ],
+    "total_matchups": 73,
+    "wins": 40,
+    "losses": 33
   }
 }
