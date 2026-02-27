@@ -3,7 +3,7 @@ import json
 with open("strong_against.json") as f:
     data = json.load(f)
 
-POOL = ["Jax", "Garen", "Ornn"]
+POOL = ["Jax", "Gwen", "Ornn"]
 pool_data = {c: data[c] for c in POOL}
 
 def build_matchup_map(pool_data):
@@ -34,7 +34,7 @@ win_wrs = [picks[0][1] for _, picks in winning]
 all_wrs = [picks[0][1] for _, picks in winning + losing]
 
 print("=" * 80)
-print(f"  POOL: Jax / Garen / Ornn")
+print(f"  POOL: Jax / Gwen / Ornn")
 print(f"  Coverage: {len(winning)}/{len(matchups)} winning ({len(winning)/len(matchups)*100:.0f}%)")
 print(f"  Avg WR (winning): {sum(win_wrs)/len(win_wrs):.1f}%")
 print(f"  Avg WR (all):     {sum(all_wrs)/len(all_wrs):.1f}%")
